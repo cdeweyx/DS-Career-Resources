@@ -1,4 +1,4 @@
-# DS/SE Internship Roles
+# Data Science & Software Engineering Undergrad Internship Roles
 Compilation of 200+ undergraduate intern positions offered for Summer 2018
 
 ### Introduction
