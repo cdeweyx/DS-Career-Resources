@@ -1,6 +1,10 @@
-# DS/SE-Internship-Roles
+# DS/SE Internship Roles
 Compilation of 200+ undergraduate intern positions offered for Summer 2018
 
+### Introduction
+This list is a compilation of intern roles from Summer 2018 that were explicitly centered around data science and software engineering. It's recommended that you bookmark this so that you can come back to it as a reference when job hunting later on. While fairly comprehensive, you'll notice that my search was bias toward major cities, particularly on the west coast. I recommend that you focus on the companies themselves more so than their accompanying locations listed below, since locations often vary from year-to-year. Lastly, this list is in no particular order and just because a company offered the position for last summer is no guarantee that they will next summer! However, it is a good starting point for your search. My mission is to expand on a [similar list](https://www.quora.com/Does-Google-have-internships-in-data-science) that I used with more recent, specified listings. Enjoy!
+
+### Data
 * Anki	San Francisco, CA	AI Intern
 * Ebay	San Jose, CA	AI/ML/Data Science Undergrad Intern
 * Thumbtack	San Francisco, CA	Analytics Intern
@@ -14,7 +18,6 @@ Compilation of 200+ undergraduate intern positions offered for Summer 2018
 * Teradata	Seattle, WA	Big Data Intern
 * Roblox	San Mateo, CA	Big Data Intern
 * Descartes Labs	Santa Fe, NM	Computer Vision Intern
-* Udacity	Mountain View, CA	Content Developer Intern SDC
 * Patagonia	Reno, NV	Customer Insights & Innovation Intern
 * Gizmodo	New York, NY	Data & Analytics Intern
 * Ubisoft	San Francisco, CA	Data Analyst Intern
@@ -46,7 +49,7 @@ Compilation of 200+ undergraduate intern positions offered for Summer 2018
 * Illumina	Santa Clara, CA	Data Infastructure and Analyst Intern
 * Wayfair	Boston, MA	Data Operations Analyst Intern
 * Stitch Fix	San Francisco, CA	Data Platform Intern
-* Nvidia	CA, WA, TX	Data Platfrom Intern
+* Nvidia	CA, WA, TX	Data Platform Intern
 * 87AM	Los Angeles, CA	Data Research Intern
 * Workday	Pleasanton, CA	Data Science Intern
 * Airbnb	San Francisco, CA	Data Science Intern
@@ -117,13 +120,6 @@ Compilation of 200+ undergraduate intern positions offered for Summer 2018
 * Volkswagon	Belmont, CA	Deep Learning Intern
 * GE Digital	San Ramon, CA	Digital Technology Intern
 * MetaRail, Inc	San Francisco, CA	Ecommerce Operations & Analytics Intern
-* Moody's Analytics	San Francisco, CA	Engineering & Technology Intern
-* Foursquare	New York, NY	Engineering Intern
-* BloomReach	Mountain View, CA	Engineering Intern
-* Asana	San Francisco, CA	Engineering Intern
-* ROOM8	San Francisco, CA	Engineering Intern
-* Optimizely	San Francisco, CA	Engineering Summer Intern
-* Houzz	Palo Alto, CA	Engineering Summer Intern
 * PlayStation	San Diego, CA	Gamer Insight Data Analyst Intern
 * Payscout	Los Angeles, CA	Information Technology Intern
 * Connexity Inc	Los Angeles, CA	Intern (Big Data/Marketing)
@@ -134,8 +130,6 @@ Compilation of 200+ undergraduate intern positions offered for Summer 2018
 * EA	Redwood City, CA	Machine Learning Intern
 * Unifi Software	San Mateo, CA	Machine Learning Intern
 * HighCrown	New York, NY	Machine Learning Intern
-* Apple	Cupertino, CA	Maps Software Engineering Intern
-* A9	Palo Alto, CA	ML Software Development Intern
 * Wiley Job Network	Boston, MA	MRL Data Scientist Intern
 * FreshDirect	New York, NY	Operations Analyst Intern
 * Pandora	Oakland, CA	Product Analytics Intern
@@ -143,6 +137,27 @@ Compilation of 200+ undergraduate intern positions offered for Summer 2018
 * Two Sigma	New York, NY	Quantitative Researcher Intern
 * Equinix	Sunnyvale, CA	Reporting & Analytics Intern
 * FleishmanHillard	New York, NY	Research & Analytics Intern
+* Squarespace	New York, NY	Software Engineer - ML Intern
+* Accenture	San Francisco, CA	Software Engineer Analyst Intern
+* AppDynamics	San Francisco, CA	Software Engineer Intern - Analytics
+* TripAdvisor	Needham, MA	Software Engineer Intern/ML Intern
+* Splunk	San Francisco, CA	Software Engineer/Data Analyst Intern
+* Yelp	San Francisco, CA	Software/Data Mining Engineer Intern
+* Amazon Robotics	North Reading, MA	Soluions Analytics Intern
+* PMK BNC	Los Angeles, CA	Strategic Inisights & Analytics
+* BuzzFeed	Los Angeles, CA	Strategic Insights & Analytics
+* Twitter San Francisco, CA University Data Intern
+
+
+### Development
+* Udacity	Mountain View, CA	Content Developer Intern SDC
+* Moody's Analytics	San Francisco, CA	Engineering & Technology Intern
+* Foursquare	New York, NY	Engineering Intern
+* BloomReach	Mountain View, CA	Engineering Intern
+* Asana	San Francisco, CA	Engineering Intern
+* ROOM8	San Francisco, CA	Engineering Intern
+* Optimizely	San Francisco, CA	Engineering Summer Intern
+* Houzz	Palo Alto, CA	Engineering Summer Intern
 * Under Armour	Baltimore, MD	Rookie Summer Intern 2018
 * Khan Academy	Mountain View, CA	Software Developer Intern
 * Amazon	Seattle, WA	Software Development Intern
@@ -151,8 +166,8 @@ Compilation of 200+ undergraduate intern positions offered for Summer 2018
 * Hulu	Santa Monica, CA	Software Development Intern
 * Siemens	Cypress, CA	Software Development Intern
 * 24[7]	San Jose, CA	Software Development Intern
-* Squarespace	New York, NY	Software Engineer - ML Intern
-* Accenture	San Francisco, CA	Software Engineer Analyst Intern
+* Apple	Cupertino, CA	Maps Software Engineering Intern
+* A9	Palo Alto, CA	ML Software Development Intern
 * Lyft	San Francisco, CA	Software Engineer Intern
 * Dropbox	San Francisco, CA	Software Engineer Intern
 * Intel	Santa Clara, CA	Software Engineer Intern
@@ -215,17 +230,10 @@ Compilation of 200+ undergraduate intern positions offered for Summer 2018
 * Akamai	Cambridge, MA	Software Engineer Intern
 * Palantir	Palo Alto, CA	Software Engineer Intern 
 * Classy	San Diego, CA	Software Engineer Intern 
-* AppDynamics	San Francisco, CA	Software Engineer Intern - Analytics
-* TripAdvisor	Needham, MA	Software Engineer Intern/ML Intern
-* Splunk	San Francisco, CA	Software Engineer/Data Analyst Intern
 * Zocdoc	New York, NY	Software Engineering Intern
 * Jet	Hoboken, NJ	Software Engineering Intern
 * Informatica	Redwood City, CA	Software Engineering Intern
 * Qubol	Santa Clara, CA	Software Engineering Intern
-* Yelp	San Francisco, CA	Software/Data Mining Engineer Intern
-* Amazon Robotics	North Reading, MA	Soluions Analytics Intern
-* PMK BNC	Los Angeles, CA	Strategic Inisights & Analytics
-* BuzzFeed	Los Angeles, CA	Strategic Insights & Analytics
 * STMicroelectronics	San Francisco, CA	Student Intern
 * OpenTable	San Francisco, CA	Summer Engineering Intern
 * Couple	San Francisco, CA	Summer Intern
@@ -234,4 +242,3 @@ Compilation of 200+ undergraduate intern positions offered for Summer 2018
 * Northup Grumman	Sunnyvale, CA	Technical Engineering Intern
 * Proofpoint	Sunnyvale, CA	Technical Intern
 * Nike	Beaverton, OR	Technology Undergrad Intern
-* Twitter San Francisco, CA University Data Intern
