@@ -4,7 +4,7 @@ Compilation of 200+ undergraduate data science and software engineering intern p
 ### Introduction
 This list is a compilation of intern roles from Summer 2018 that were explicitly centered around data science and software engineering. It's recommended that you bookmark this so that you can come back to it as a reference when job hunting later on. While fairly comprehensive, you'll notice that my search was bias toward major cities, particularly on the west coast. I recommend that you focus on the companies themselves more so than their accompanying locations listed below, since locations often vary from year-to-year. 
 
-Lastly, this list is in no particular order and just because a company offered the position for last summer is no guarantee that they will next summer! However, it is a good starting point for your search. My mission is to expand on a [similar list](https://www.quora.com/Does-Google-have-internships-in-data-science) that I used with more recent, specified listings. This list has an accompanying Medium post as well if you're interested. Enjoy!
+Lastly, this list is in no particular order and just because a company offered the position for last summer is no guarantee that they will next summer! However, it is a good starting point for your search. My mission is to expand on a similar list that I used with more recent, specified listings. This list has an accompanying Medium post as well if you're interested. Enjoy!
 
 ### See the Post
 I wrote a Medium post on the experience as well filtered for only Data Science Intern positions specifically. You can find the post and more about the process here:
