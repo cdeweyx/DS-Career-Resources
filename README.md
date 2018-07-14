@@ -9,3 +9,5 @@ This list is a compilation of intern roles from Summer 2018 that were explicitly
 
 ### [Data Science and Machine Learning Interview Resources](https://github.com/conordewey3/DS-Career-Resources/blob/master/Interview-Resources.md)
 With this by your side, you should have more than enough effective tools at your disposal next time you’re prepping for a big interview.
+
+### [9 Essential Newsletters for Data Scientists](https://towardsdatascience.com/9-essential-newsletters-for-data-scientists-e225e4227318) Think of your newsletter subscriptions as an elite force of smart, specialized people working to bring you information that‘s worth your time.
