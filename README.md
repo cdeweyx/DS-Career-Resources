@@ -6,6 +6,10 @@ This list is a compilation of intern roles from Summer 2018 that were explicitly
 
 Lastly, this list is in no particular order and just because a company offered the position for last summer is no guarantee that they will next summer! However, it is a good starting point for your search. My mission is to expand on a [similar list](https://www.quora.com/Does-Google-have-internships-in-data-science) that I used with more recent, specified listings. This list has an accompanying Medium post as well if you're interested. Enjoy!
 
+### See the Post
+I wrote a Medium post on the experience as well filtered for only Data Science Intern positions specifically. You can find the post and more about the process here:
+[Big List of 50+ Data Science Internships](https://towardsdatascience.com/big-list-of-50-data-science-internships-ee917ed3413f)
+
 ### Data
 * Anki	San Francisco, CA	AI Intern
 * Ebay	San Jose, CA	AI/ML/Data Science Undergrad Intern
