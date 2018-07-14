@@ -20,7 +20,7 @@ If you’ve ever found yourself looking up the same question, concept, or syntax
 Think of your newsletter subscriptions as an elite force of smart, specialized people working to bring you the latest and most valuable information well worth your time. Data science moves fast, you should too.
 
 ### [An Ode to the Type A Data Scientist](https://towardsdatascience.com/ode-to-the-type-a-data-scientist-78d11456019) 
-Data science isn't all about machine learning, despite what TechCrunch and company would lead you to believe. Here I make the argument for the value provided by skills and actions associated with the often overlooked and under-appreciated, Type A Data Scientist.
+Data science isn't entirely about machine learning. Here I make the argument for the value provided by skills and actions associated with the often overlooked and under-appreciated, Type A Data Scientist.
 
 ### [When Your Job Is Done as a Data Scientist](https://towardsdatascience.com/when-your-job-is-done-as-a-data-scientist-c5d887bb0d0e) 
 As Data Scientists, there is very little that is black and white. We do our work in a world of grey. As Data Scientists, we need to do a better job of consistently reminding ourselves that our primary focus should be to drive impact.
