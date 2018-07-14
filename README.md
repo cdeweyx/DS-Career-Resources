@@ -1,5 +1,5 @@
 # DS/SE Internship Roles
-Compilation of 200+ undergraduate intern positions offered for Summer 2018
+Compilation of 200+ undergraduate data science and software engineering intern positions offered for Summer 2018
 
 ### Introduction
 This list is a compilation of intern roles from Summer 2018 that were explicitly centered around data science and software engineering. It's recommended that you bookmark this so that you can come back to it as a reference when job hunting later on. While fairly comprehensive, you'll notice that my search was bias toward major cities, particularly on the west coast. I recommend that you focus on the companies themselves more so than their accompanying locations listed below, since locations often vary from year-to-year. 
