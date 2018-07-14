@@ -1,5 +1,5 @@
 # Data Science Career Resources
-Compilation of various resources that helped me on my journey to Data Scientist
+Compilation of resources and insights that helped me on my journey to Data Scientist
 
 ### Introduction
 Data science can seem like an intimidating field to get into. I know this first hand. Throughout my journey, I've failed more times than I've succeeded, but I've learned a lot. I've also documented a lot. Through this exciting and difficult process, I’ve accumulated a plethora of useful resources that helped me with learning new concepts, doing impactful work, interviewing at top tech companies, and more. This repo is an attempt to ‘open-source’ my experience and insights becoming a Data Scientist. Enjoy!
