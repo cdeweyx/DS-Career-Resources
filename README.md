@@ -7,7 +7,7 @@ Data science can seem like an intimidating field to get into. I know this first 
 ### [Data Science and Software Engineering Intern Roles](https://github.com/conordewey3/DS-Career-Resources/blob/master/Internship-Roles.md)
 This list is a compilation of over 200+ undergraduate intern roles from Summer 2018 that were explicitly centered around data science and software engineering. Use this as a jumping off point for your next job search.
 
-### [Data Science and Machine Learning Interview Resources](https://github.com/conordewey3/DS-Career-Resources/blob/master/Interview-Resources.md)
+### [Data Science Interview Resources](https://github.com/conordewey3/DS-Career-Resources/blob/master/Interview-Resources.md)
 With this by your side, you should have more than enough effective tools at your disposal next time you’re prepping for a big interview or just suring up fundamental data science concepts. Being updated and improved on constantly.
 
 ### [The Hitchhiker's Guide to Machine Learning in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378)
