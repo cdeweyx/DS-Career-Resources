@@ -8,6 +8,7 @@ Lastly, this list is in no particular order and just because a company offered t
 
 ### See the Post
 I wrote a Medium post on the experience as well filtered for only Data Science Intern positions specifically. You can find the post and more about the process here:
+
 [Big List of 50+ Data Science Internships](https://towardsdatascience.com/big-list-of-50-data-science-internships-ee917ed3413f)
 
 ### Data
