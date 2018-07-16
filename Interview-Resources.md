@@ -65,6 +65,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
     * https://github.com/TheAlgorithms/Python
  * Intro to Classes and Objects in Python
     * https://www.youtube.com/watch?v=wfcWRAxRVBA
+ * Coding Interview Github Compilation
+   * https://github.com/mre/the-coding-interview
 
 
 ### Statistics and Probability
