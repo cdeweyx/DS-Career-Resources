@@ -67,6 +67,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
     * https://www.youtube.com/watch?v=wfcWRAxRVBA
  * Coding Interview Github Compilation
    * https://github.com/mre/the-coding-interview
+* Problem Solving with Data Structures & Algorithms in Python
+   * http://interactivepython.org/runestone/static/pythonds/index.html
 
 
 ### Statistics and Probability
