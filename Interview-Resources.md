@@ -44,6 +44,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://medium.com/@jasonkgoodman/advice-on-building-data-portfolio-projects-c5f96d8a0627
 * Youtube William Chen Resume/Portfolio Tips
    * https://www.youtube.com/watch?v=xrhPjE7wHas&feature=youtu.be&t=2m43s
+* How to Prepare for Data Science Interviews Quora Answers
+   * https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview
 
 
 ### Algorithmic Coding in Python
