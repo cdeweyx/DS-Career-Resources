@@ -132,6 +132,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
     * https://medium.com/the-year-of-the-looking-glass/how-do-you-set-metrics-59f78fea7e44
 * Metrics vs. Experience - Julie Zhou
     * https://medium.com/the-year-of-the-looking-glass/metrics-versus-experience-a9347d6b80b
+ * How Not to Run an A/B Test
+   * http://www.evanmiller.org/how-not-to-run-an-ab-test.html
 
 ### Big Data Platforms
 * Apache Spark in Python: Beginner’s Guide (Datacamp)
