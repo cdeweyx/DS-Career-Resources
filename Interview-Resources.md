@@ -111,6 +111,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
 * Kaggle Data Science Glossary
    * https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle
+* Machine Learning Interview Checklist Udacity
+   * https://docs.google.com/document/d/e/2PACX-1vSYBV2l-IUU8rFPa6ldB5CSCrrnz_czoVMGN5G2hRRjfUjlG82a-tif0sO4QUF_MBkgeOj6U44ACOqM/pub?embedded=true
 
 
 ### Product and Experimentation
