@@ -48,7 +48,7 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview
 
 
-### Algorithmic Coding in Python
+### Algorithmic Coding & Python
 * Time complexity in Python
     * https://wiki.python.org/moin/TimeComplexity
 * Leetcode
@@ -78,7 +78,7 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/
 
 
-### Data Manipulation with SQL
+### Data Manipulation & SQL
 * Mode Tutorial
     * https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 * How to Ace Data Science Interviews: SQL
@@ -89,13 +89,15 @@ I wrote a Medium post on the experience as well. You can find the post and more 
     * https://github.com/MaximAbramchuck/awesome-interview-questions#sql
 
 
-### Data Analysis with Pandas
+### Data Analysis & Pandas
 * Data School Video Series
   * https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y
 * Intro to Pandas Data Strutures
   * http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
 * Excel Tasks in Pandas
   * http://pbpython.com/excel-pandas-comp.html
+* Data Analyst Interview Practice Checkist Udacity
+   * https://classroom.udacity.com/courses/ud944/lessons/d982ccec-8895-4362-981e-05bd266ac783/concepts/399b5b79-7fa9-435d-91ed-bd74369ff5d9
   
   
 ### Machine Learning
@@ -137,7 +139,7 @@ I wrote a Medium post on the experience as well. You can find the post and more 
  * How Not to Run an A/B Test
    * http://www.evanmiller.org/how-not-to-run-an-ab-test.html
 
-### Big Data Platforms
+### Big Data
 * Apache Spark in Python: Beginner’s Guide (Datacamp)
     * https://www.datacamp.com/community/tutorials/apache-spark-python#gs.fMIIqxM
 * Apache Spark vs. Mapreduce Whiteboard Walkthrough
