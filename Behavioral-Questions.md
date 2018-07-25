@@ -18,7 +18,7 @@ List of typical behavioral interview questions. Taken from [Udacity Data Science
 * Tell me about a mistake you made and what you learned from it.
 * What experience do you have in this field? How have you prepared yourself to switch fields?
 
-###4. Goals, Motivation & Values
+### 4. Goals, Motivation & Values
 * Why do you think you will like this field?
 * Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it.
 * Give me an example of a time you were able to be creative with your work. What was exciting or difficult about it?
