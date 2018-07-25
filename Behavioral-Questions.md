@@ -1,5 +1,5 @@
 # Self Practice: Behavioral Questions
-List of typical behavioral interview questions by high-level categories. Taken from [Udacity Data Science Interview Preparation](https://classroom.udacity.com/courses/ud944) online course.
+List of typical behavioral interview questions. Taken from [Udacity Data Science Interview Preparation](https://classroom.udacity.com/courses/ud944).
 
 ### 1. Getting to Know You
 * What motivates you at work?
