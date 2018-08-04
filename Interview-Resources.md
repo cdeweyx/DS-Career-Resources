@@ -71,6 +71,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://github.com/mre/the-coding-interview
 * Problem Solving with Data Structures & Algorithms in Python
    * http://interactivepython.org/runestone/static/pythonds/index.html
+* Python Leetcode Video Series Nasr Maswood
+   * https://www.youtube.com/watch?v=Xorvwc2P0-8&list=PL6AvMp7YYQRxyltgP9mucWXYxcn1e2mx3
 
 
 ### Statistics and Probability
