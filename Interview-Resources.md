@@ -150,6 +150,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * http://hookedondata.org/Guidelines-for-AB-Testing/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_194
 * A/B Testing at Stack Overflow
    * https://juliasilge.com/blog/ab-testing/
+* Type I vs. Type II Errors Simplified
+   * https://flowingdata.com/2014/05/09/type-i-and-ii-errors-simplified/
 
 ### Big Data
 * Apache Spark in Python: Beginner’s Guide (Datacamp)
