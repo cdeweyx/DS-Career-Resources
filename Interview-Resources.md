@@ -146,6 +146,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
     * https://medium.com/the-year-of-the-looking-glass/metrics-versus-experience-a9347d6b80b
  * How Not to Run an A/B Test
    * http://www.evanmiller.org/how-not-to-run-an-ab-test.html
+* 12 Guidlines for A/B Tests
+   * http://hookedondata.org/Guidelines-for-AB-Testing/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_194
 
 ### Big Data
 * Apache Spark in Python: Beginner’s Guide (Datacamp)
