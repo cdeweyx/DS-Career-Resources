@@ -41,3 +41,5 @@ def missingNumber(self, nums):
         if nums[i] != i:
             return nums[i] - 1
     return nums[-1] + 1
+
+    

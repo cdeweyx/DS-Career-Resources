@@ -20,3 +20,13 @@ Input: [1,1,1,3,3,4,3,2,4,2]
 Output: true
 
 '''
+
+# Normal Approach - O(n) time, O(1) space
+def containsDuplicate(self, nums):
+	seen = set()
+	for item in nums:
+		if item in seen:
+			return True
+		else:
+			seen.add(item)
+	return False
