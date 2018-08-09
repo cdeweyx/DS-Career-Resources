@@ -148,6 +148,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * http://www.evanmiller.org/how-not-to-run-an-ab-test.html
 * 12 Guidlines for A/B Tests
    * http://hookedondata.org/Guidelines-for-AB-Testing/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_194
+* A/B Testing at Stack Overflow
+   * https://juliasilge.com/blog/ab-testing/
 
 ### Big Data
 * Apache Spark in Python: Beginner’s Guide (Datacamp)
