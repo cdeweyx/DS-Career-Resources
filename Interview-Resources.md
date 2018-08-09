@@ -46,6 +46,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.youtube.com/watch?v=xrhPjE7wHas&feature=youtu.be&t=2m43s
 * How to Prepare for Data Science Interviews Quora Answers
    * https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview
+* 120 Data Science Questions Answers
+   * https://github.com/kojino/120-Data-Science-Interview-Questions
 
 
 ### Algorithmic Coding & Python
