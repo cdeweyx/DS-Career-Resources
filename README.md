@@ -4,6 +4,12 @@ Compilation of resources and insights that helped me on my journey to Data Scien
 ### Introduction
 Data science can seem like an intimidating field to get into. I know this first hand. Throughout my journey, I've failed more times than I've succeeded, but I've learned a lot. I've also documented a lot. Through this exciting and difficult process, I’ve accumulated a plethora of useful resources that helped me with learning new concepts, doing impactful work, interviewing at top tech companies, and more. This repo is an attempt to ‘open-source’ my experience and insights becoming a Data Scientist. Enjoy!
 
+### [5 Lessons from a Data Science Internship at a Tech Unicorn](https://towardsdatascience.com/5-lessons-learned-from-a-data-science-intern-at-a-tech-unicorn-86292d2ab676)
+A reflection of lessons and advice from my time at a Data Science Intern working at Unity Technologies in San Francisco, CA. My goal is to share a handful of actionable lessons, takeaways, thoughts, and advice from the memorable experience.
+
+### [5 Resources to Inspire Your Next Data Science Project](https://towardsdatascience.com/5-resources-to-inspire-your-next-data-science-project-ea6afbe20319)
+Have you ever wanted to start a new project but you can’t decide what to do? First, you spend a couple hours brainstorming ideas. Then days. Before you know it, weeks have gone by without shipping anything new. In this post, my intention is provide some useful resources to springboard you into your next data science project.
+
 ### [Data Science and Software Engineering Intern Roles](https://github.com/conordewey3/DS-Career-Resources/blob/master/Internship-Roles.md)
 This list is a compilation of over 200+ undergraduate intern roles from Summer 2018 that were explicitly centered around data science and software engineering. Use this as a jumping off point for your next job search.
 
