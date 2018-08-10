@@ -46,6 +46,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.youtube.com/watch?v=xrhPjE7wHas&feature=youtu.be&t=2m43s
 * How to Prepare for Data Science Interviews Quora Answers
    * https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview
+* 120 Data Science Questions Answers
+   * https://github.com/kojino/120-Data-Science-Interview-Questions
 
 
 ### Algorithmic Coding & Python
@@ -102,6 +104,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
   * http://pbpython.com/excel-pandas-comp.html
 * Data Analyst Interview Practice Checkist Udacity
    * https://classroom.udacity.com/courses/ud944/lessons/d982ccec-8895-4362-981e-05bd266ac783/concepts/399b5b79-7fa9-435d-91ed-bd74369ff5d9
+* More Pandas Exercises on Github  
+   * https://github.com/guipsamora/pandas_exercises
   
   
 ### Machine Learning
