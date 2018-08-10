@@ -104,6 +104,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
   * http://pbpython.com/excel-pandas-comp.html
 * Data Analyst Interview Practice Checkist Udacity
    * https://classroom.udacity.com/courses/ud944/lessons/d982ccec-8895-4362-981e-05bd266ac783/concepts/399b5b79-7fa9-435d-91ed-bd74369ff5d9
+* More Pandas Exercises on Github  
+   * https://github.com/guipsamora/pandas_exercises
   
   
 ### Machine Learning
