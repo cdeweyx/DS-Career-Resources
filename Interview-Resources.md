@@ -156,6 +156,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://juliasilge.com/blog/ab-testing/
 * Type I vs. Type II Errors Simplified
    * https://flowingdata.com/2014/05/09/type-i-and-ii-errors-simplified/
+* A/B Testing TutorialPoint
+   * https://www.tutorialspoint.com/ab_testing/index.htm
 
 ### Big Data
 * Apache Spark in Python: Beginner’s Guide (Datacamp)
