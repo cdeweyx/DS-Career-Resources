@@ -127,6 +127,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://developers.google.com/machine-learning/glossary/
 * 100 Days of ML Code Infographics
    * https://github.com/Avik-Jain/100-Days-Of-ML-Code
+* Machine Learning for Dummies Algorithm Overview
+   * https://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/
 
 
 ### Product and Experimentation
