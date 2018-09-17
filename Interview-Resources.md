@@ -131,6 +131,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/
 * ML Algorithm Pros and Cons
    * https://www.hackingnote.com/en/machine-learning/algorithms-pros-and-cons/
+* Advantages of Different Classification Algorithms
+   * https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
 
 
 ### Product and Experimentation
