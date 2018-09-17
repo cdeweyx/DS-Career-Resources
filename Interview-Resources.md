@@ -129,6 +129,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://github.com/Avik-Jain/100-Days-Of-ML-Code
 * Machine Learning for Dummies Algorithm Overview
    * https://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/
+* ML Algorithm Pros and Cons
+   * https://www.hackingnote.com/en/machine-learning/algorithms-pros-and-cons/
 
 
 ### Product and Experimentation
