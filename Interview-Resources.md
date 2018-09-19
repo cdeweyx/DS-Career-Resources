@@ -166,6 +166,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.tutorialspoint.com/ab_testing/index.htm
 * Case Study: Pay as You Go
    * https://www.forbes.com/sites/quora/2015/05/29/you-can-earn-as-much-or-more-from-a-pay-what-you-want-model-as-from-a-fixed-price-model/#65b3a67221b5
+* 27 Metrics Used at Pinterest
+   * http://jwegan.com/growth-hacking/27-metrics-pinterests-internal-growth-dashboard/
 
 ### Big Data
 * Apache Spark in Python: Beginner’s Guide (Datacamp)
