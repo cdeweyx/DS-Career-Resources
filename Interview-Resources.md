@@ -82,6 +82,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
 ### Statistics and Probability
 * Basics of Probability for Data Science
    * https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/
+* William Chen Probability Cheatsheet
+   * https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 
 
 ### Data Manipulation & SQL
