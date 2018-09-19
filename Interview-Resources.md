@@ -164,6 +164,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://flowingdata.com/2014/05/09/type-i-and-ii-errors-simplified/
 * A/B Testing TutorialPoint
    * https://www.tutorialspoint.com/ab_testing/index.htm
+* Case Study: Pay as You Go
+   * https://www.forbes.com/sites/quora/2015/05/29/you-can-earn-as-much-or-more-from-a-pay-what-you-want-model-as-from-a-fixed-price-model/#65b3a67221b5
 
 ### Big Data
 * Apache Spark in Python: Beginner’s Guide (Datacamp)
