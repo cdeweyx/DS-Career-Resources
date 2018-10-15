@@ -95,6 +95,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
     * https://www.datacamp.com/community/tutorials/sql-tutorial-query
 * Practice SQL problems
     * https://github.com/MaximAbramchuck/awesome-interview-questions#sql
+ * 10 Frequently Asked SQL Questions
+   * http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html
 
 
 ### Data Analysis & Pandas
