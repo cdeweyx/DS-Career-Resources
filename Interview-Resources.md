@@ -97,6 +97,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
     * https://github.com/MaximAbramchuck/awesome-interview-questions#sql
  * 10 Frequently Asked SQL Questions
    * http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html
+* 45 Essential SQL Interview Questions
+   * https://www.toptal.com/sql/interview-questions
 
 
 ### Data Analysis & Pandas
