@@ -77,6 +77,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.youtube.com/watch?v=Xorvwc2P0-8&list=PL6AvMp7YYQRxyltgP9mucWXYxcn1e2mx3
 * Python Tricks and Tips
    * https://hackernoon.com/python-tricks-101-2836251922e0
+* Big List of Interviewee Interview Questions
+   * https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md
 
 
 ### Statistics and Probability
