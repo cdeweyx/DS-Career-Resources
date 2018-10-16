@@ -18,7 +18,7 @@ Output: false
 
 '''
 
-# Simplest, Pythonic Approach - O(n) time, O(1) space
+# Simplest, Pythonic Approach - O(n) time, O(n) space
 def isPalindrome(self, s):
     s = [i.lower() for i in s if i.isalnum()]
     return s == s[::-1]

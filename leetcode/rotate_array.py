@@ -12,6 +12,7 @@ Explanation:
 rotate 1 steps to the right: [7,1,2,3,4,5,6]
 rotate 2 steps to the right: [6,7,1,2,3,4,5]
 rotate 3 steps to the right: [5,6,7,1,2,3,4]
+
 Example 2:
 
 Input: [-1,-100,3,99] and k = 2
@@ -38,7 +39,15 @@ def rotate(self, nums, k):
 			previous = temp
 
 
-# Pythonic Solution - O(n) time, O(n) space
+# Using Extra Array - O(n) time, O(n) space
+def rotate(self, nums, k):
+	temp = []
+	for i in range(len(nums)):
+		temp.append(nums[(i + k + 1) % len(nums)])
+	return temp[:]
+
+
+# Reverse Solution - O(n) time, O(1) space
 def rotate(self, nums, k):
     if k % len(nums) != 0:
         k = k % len(nums)

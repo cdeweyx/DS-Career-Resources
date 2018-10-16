@@ -19,7 +19,6 @@ return [0, 1].
 def twoSum(self, nums, target):
 	for i in range(nums):
 		for j in range(nums):
-
 			if nums[i] + nums[j] == target and i != j:
 				return i, j
 	return -1
