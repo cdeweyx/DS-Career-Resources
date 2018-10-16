@@ -77,11 +77,15 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.youtube.com/watch?v=Xorvwc2P0-8&list=PL6AvMp7YYQRxyltgP9mucWXYxcn1e2mx3
 * Python Tricks and Tips
    * https://hackernoon.com/python-tricks-101-2836251922e0
+* Big List of Interviewee Interview Questions
+   * https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md
 
 
 ### Statistics and Probability
 * Basics of Probability for Data Science
    * https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/
+* William Chen Probability Cheatsheet
+   * https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 
 
 ### Data Manipulation & SQL
@@ -93,6 +97,12 @@ I wrote a Medium post on the experience as well. You can find the post and more 
     * https://www.datacamp.com/community/tutorials/sql-tutorial-query
 * Practice SQL problems
     * https://github.com/MaximAbramchuck/awesome-interview-questions#sql
+ * 10 Frequently Asked SQL Questions
+   * http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html
+* 45 Essential SQL Interview Questions
+   * https://www.toptal.com/sql/interview-questions
+* More SQL practice on Github
+   * https://github.com/XD-DENG/SQL-exercise
 
 
 ### Data Analysis & Pandas
@@ -127,6 +137,12 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://developers.google.com/machine-learning/glossary/
 * 100 Days of ML Code Infographics
    * https://github.com/Avik-Jain/100-Days-Of-ML-Code
+* Machine Learning for Dummies Algorithm Overview
+   * https://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/
+* ML Algorithm Pros and Cons
+   * https://www.hackingnote.com/en/machine-learning/algorithms-pros-and-cons/
+* Advantages of Different Classification Algorithms
+   * https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
 
 
 ### Product and Experimentation
@@ -156,6 +172,14 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://juliasilge.com/blog/ab-testing/
 * Type I vs. Type II Errors Simplified
    * https://flowingdata.com/2014/05/09/type-i-and-ii-errors-simplified/
+* A/B Testing TutorialPoint
+   * https://www.tutorialspoint.com/ab_testing/index.htm
+* Case Study: Pay as You Go
+   * https://www.forbes.com/sites/quora/2015/05/29/you-can-earn-as-much-or-more-from-a-pay-what-you-want-model-as-from-a-fixed-price-model/#65b3a67221b5
+* 27 Metrics Used at Pinterest
+   * http://jwegan.com/growth-hacking/27-metrics-pinterests-internal-growth-dashboard/
+* 70 Resources to Get Started With A/B Testing
+   * https://www.quicksprout.com/2014/11/05/ab-testing-for-beginners-70-resources-to-get-you-started/
 
 ### Big Data
 * Apache Spark in Python: Beginner’s Guide (Datacamp)
