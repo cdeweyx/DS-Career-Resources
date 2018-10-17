@@ -16,6 +16,7 @@ Output: 1->2->3
 
 '''
 
+# Standard approach - O(n) time, O(n) space
 def deleteDuplicates(self, head):
 	curr = head
 	while curr and curr.next:
