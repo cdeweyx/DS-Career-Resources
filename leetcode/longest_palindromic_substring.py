@@ -16,12 +16,12 @@ Output: "bb"
 
 '''
 
-# Brute force approach - O(n) time, O(n) space
+# Brute force approach - O(n^3) time, O(1) space
 def longestPalindrome(self, s):
 	longest_str = ''
 	for i in range(len(s)):
 		for j in range(i, len(s) + 1):
-			temp = s[s:j]
-			if temp == temp[::-1] and len(temp) > len(longest_str):
+			temp = s[i:j]
+			if temp == temp[::-1] and len(temp) >= len(longest_str):
 				longest_str = temp
-				print(temp)
+	return longest_str
