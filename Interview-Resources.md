@@ -88,6 +88,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 * 40 Questions on Probability for Data Science Interviews
    * https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/
+* Common Probability Distributions
+   * http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
 
 
 ### Data Manipulation & SQL
