@@ -90,6 +90,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/
 * Common Probability Distributions
    * http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
+* Probability and Statistics for DS Medium Series
+   * https://towardsdatascience.com/probability-statistics-for-data-science-series-83b94353ca48
 
 
 ### Data Manipulation & SQL
