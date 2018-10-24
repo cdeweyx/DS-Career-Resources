@@ -21,7 +21,7 @@ Output: true
 
 '''
 
-# Normal Approach - O(n) time, O(1) space
+# Normal approach - O(n) time, O(1) space
 def containsDuplicate(self, nums):
 	seen = set()
 	for item in nums:
