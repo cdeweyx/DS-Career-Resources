@@ -48,6 +48,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview
 * 120 Data Science Questions Answers
    * https://github.com/kojino/120-Data-Science-Interview-Questions
+* Analytics Vidhya Comprehensive Interview Resources
+   * https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
 
 
 ### Algorithmic Coding & Python
