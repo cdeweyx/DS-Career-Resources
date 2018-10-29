@@ -151,6 +151,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.hackingnote.com/en/machine-learning/algorithms-pros-and-cons/
 * Advantages of Different Classification Algorithms
    * https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms
+* The MLInterview Repo
+   * https://github.com/theainerd/MLInterview
 
 
 ### Product and Experimentation
