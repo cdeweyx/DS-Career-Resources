@@ -7,7 +7,7 @@ Data science interviews certainly aren’t easy. I know this first hand. I’ve 
 ### See the Post
 I wrote a Medium post on the experience as well. You can find the post and more about my experience here:
 
-[The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
+[The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63?source=friends_link&sk=e229d4fc3452514bd8d560ae898809cc)
 
 ### General 
 * Tech Interview Handbook
