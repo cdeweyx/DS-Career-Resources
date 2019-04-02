@@ -50,6 +50,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://github.com/kojino/120-Data-Science-Interview-Questions
 * Analytics Vidhya Comprehensive Interview Resources
    * https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
+* Dataquest Data Science Career Guide
+   * https://www.dataquest.io/blog/data-science-career-guide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_227
 
 
 ### Algorithmic Coding & Python
