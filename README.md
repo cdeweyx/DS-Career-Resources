@@ -7,11 +7,14 @@ Data science can seem like an intimidating field to get into. I know this first 
 ### [Data Science Interview Resources](https://github.com/conordewey3/DS-Career-Resources/blob/master/Interview-Resources.md)
 With this by your side, you should have more than enough effective tools at your disposal next time you’re prepping for a big interview or just suring up fundamental data science concepts. Being updated and improved on constantly.
 
-### [5 Lessons from a Data Science Intern at a Tech Unicorn](https://towardsdatascience.com/5-lessons-learned-from-a-data-science-intern-at-a-tech-unicorn-86292d2ab676?source=friends_link&sk=bb9586bfc91e3a795e3b4a9b1337b64f)
-A reflection of lessons and advice from my time at a Data Science Intern working at Unity Technologies in San Francisco, CA. My goal is to share a handful of actionable lessons, takeaways, thoughts, and advice from the memorable experience.
-
 ### [Data Science and Software Engineering Intern Roles](https://github.com/conordewey3/DS-Career-Resources/blob/master/Internship-Roles.md)
 This list is a compilation of over 200+ undergraduate intern roles from Summer 2018 that were explicitly centered around data science and software engineering. Use this as a jumping off point for your next job search.
+
+### [Compilation of Advice for New and Aspiring Data Scientists](https://towardsdatascience.com/compilation-of-advice-for-new-and-aspiring-data-scientists-5ea75a3925c4?source=friends_link&sk=2e0160d6f948d263bc2862aefbee2ed4)
+This post is designed to make it a little easier for aspiring data scientists to find all of the excellent advice out there from experts in the field. The majority of the ideas below are condensed from 6 posts that I found especially helpful.
+
+### [5 Lessons from a Data Science Intern at a Tech Unicorn](https://towardsdatascience.com/5-lessons-learned-from-a-data-science-intern-at-a-tech-unicorn-86292d2ab676?source=friends_link&sk=bb9586bfc91e3a795e3b4a9b1337b64f)
+A reflection of lessons and advice from my time at a Data Science Intern working at Unity Technologies in San Francisco, CA. My goal is to share a handful of actionable lessons, takeaways, thoughts, and advice from the memorable experience.
 
 ### [5 Resources to Inspire Your Next Data Science Project](https://towardsdatascience.com/5-resources-to-inspire-your-next-data-science-project-ea6afbe20319?source=friends_link&sk=a7ea0633cc44635fe84ae693879c5784)
 Have you ever wanted to start a new project but you can’t decide what to do? First, you spend a couple hours brainstorming ideas. Then days. Before you know it, weeks have gone by without shipping anything new. In this post, my intention is provide some useful resources to springboard you into your next data science project.
