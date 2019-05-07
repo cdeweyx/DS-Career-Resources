@@ -10,6 +10,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
 [The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63?source=friends_link&sk=e229d4fc3452514bd8d560ae898809cc)
 
 ### General 
+* Interview Q&A bank
+   * https://github.com/iamtodor/data-science-interview-questions-and-answers
 * Tech Interview Handbook
     * https://github.com/yangshun/tech-interview-handbook
 * Best Data Science Courses Online
