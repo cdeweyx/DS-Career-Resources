@@ -133,6 +133,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
   
   
 ### Machine Learning
+* Machine Learning in Python Github Repo
+  * https://github.com/machinelearningmindset/machine-learning-course
 * The Applied Machine Learning Process
    * https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/
 * Springboard 41 Essential Machine Learning Questions
