@@ -56,6 +56,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://www.dataquest.io/blog/data-science-career-guide/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_227
 * Notes and technical questions from interviewing as a Data Scientist in 2018
    * https://towardsdatascience.com/notes-and-technical-questions-from-interviewing-as-a-data-scientist-in-2018-20e7e3ee4ab3
+* Mastering the Data Science Interview Loop
+  * https://towardsdatascience.com/mastering-the-data-science-interview-15f9c0a558a7
 
 
 ### Algorithmic Coding & Python
