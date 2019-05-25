@@ -13,6 +13,8 @@ This list is a compilation of over 200+ undergraduate intern roles from Summer 2
 ### [Compilation of Advice for New and Aspiring Data Scientists](https://towardsdatascience.com/compilation-of-advice-for-new-and-aspiring-data-scientists-5ea75a3925c4?source=friends_link&sk=2e0160d6f948d263bc2862aefbee2ed4)
 This post was designed to make it a little easier for aspiring data scientists to find all of the excellent advice out there from experts in the field. The majority of the ideas are condensed from 6 posts that I found especially helpful.
 
+
+
 ### [5 Lessons from a Data Science Intern at a Tech Unicorn](https://towardsdatascience.com/5-lessons-learned-from-a-data-science-intern-at-a-tech-unicorn-86292d2ab676?source=friends_link&sk=bb9586bfc91e3a795e3b4a9b1337b64f)
 A reflection of lessons and advice from my time at a Data Science Intern working at Unity Technologies in San Francisco, CA. My goal is to share a handful of actionable lessons, takeaways, thoughts, and advice from the memorable experience.
 
