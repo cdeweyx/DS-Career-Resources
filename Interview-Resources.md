@@ -1,4 +1,4 @@
-# DS/ML Interview Resources
+# Data Scince Interview Resources
 50+ interviews worth of comprehensive data science resources
 
 ### Introduction 
