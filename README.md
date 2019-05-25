@@ -2,7 +2,7 @@
 Compilation of resources and insights that helped me on my journey to data scientist
 
 ### Introduction
-Data science can seem like an intimidating field to get into. I know this first hand. Throughout my journey, I've learned a lot. I've also documented a lot. Through this process, I’ve accumulated a bunch of useful resources that helped me with learning new concepts, doing impactful work, interviewing at top tech companies, and more. This repo is an attempt to ‘open-source’ my experience and insights becoming a data scientist. Enjoy and for more on me, head over to my [website](https://www.conordewey.com/).
+Data science can seem like an intimidating field to get into. I know this first hand. Throughout my journey, I've learned a lot. I've also documented a lot. Through this process, I’ve accumulated a bunch of useful resources that helped me with learning new concepts, doing impactful work, interviewing at top tech companies, and more. This repo is an attempt to ‘open-source’ my experience and insights becoming a data scientist. Enjoy! For more on me and what I'm up to, you can head over to my [website](https://www.conordewey.com/).
 
 ### [Data Science Interview Resources](https://github.com/conordewey3/DS-Career-Resources/blob/master/Interview-Resources.md)
 With this by your side, you should have more than enough material at your disposal the next time you’re prepping for a big interview or suring up fundamental concepts. Being updated and improved on constantly.
