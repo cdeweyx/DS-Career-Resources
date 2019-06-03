@@ -1,4 +1,4 @@
-# Data Scince Interview Resources
+# Data Science Interview Resources
 50+ interviews worth of comprehensive data science resources
 
 ### Introduction 
@@ -174,7 +174,7 @@ I wrote a Medium post on the experience as well. You can find the post and more 
     * https://www.tutorialspoint.com/ab_testing/ab_testing_interview_questions.htm
 * Udacity A/B Testing Course
     * https://www.udacity.com/course/ab-testing--ud257
-* Summery of Udacity A/B Testing Course
+* Summary of Udacity A/B Testing Course
     * https://towardsdatascience.com/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1
 * Hubspot Frequently Asked Questions about A/B Testing
     * https://blog.hubspot.com/blog/tabid/6307/bid/33466/answers-to-the-19-most-frequently-asked-questions-about-a-b-testing.aspx
