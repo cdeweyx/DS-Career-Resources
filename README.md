@@ -9,6 +9,9 @@ Data science can seem like an intimidating field to get into. I know this first 
 ### [Data Science Interview Resources](https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources/)
 With this by your side, you should have more than enough material at your disposal the next time you’re prepping for a big interview or suring up fundamental concepts. Being updated and improved on constantly.
 
+### [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
+This site has quite a lot of interesting data science questions which would help you in your interview preparation be it you are a fresher or an experienced professional looking for change.
+
 ### [Data Science and Software Engineering Intern Roles](https://github.com/conordewey3/DS-Career-Resources/blob/master/Internship-Roles.md)
 This list is a compilation of over 200+ undergraduate intern roles from Summer 2018 that were explicitly centered around data science and software engineering. You can use this as a jumping off point for your next job search.
 
