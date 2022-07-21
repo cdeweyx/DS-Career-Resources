@@ -63,6 +63,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
 ### Algorithmic Coding & Python
 * Time complexity in Python
     * https://wiki.python.org/moin/TimeComplexity
+* Lists in Python
+    * https://www.scaler.com/topics/what-is-list-in-python/
 * Leetcode
     * https://leetcode.com/
 * Stacks and queues in Python
