@@ -4,7 +4,7 @@ Compilation of resources and insights that helped me on my journey to data scien
 [The Big List of Data Science Interview Resources](https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources/)
 
 ### Introduction
-Data science can seem like an intimidating field to get into. I know this first hand. Throughout my journey, I've learned a lot. I've also documented a lot. Through this process, I’ve accumulated a bunch of useful resources that helped me with learning new concepts, doing impactful work, interviewing at top tech companies, and more. This repo is an attempt to ‘open-source’ my experience and insights becoming a data scientist. Enjoy! For more on me and what I'm up to, you can head over to my [website](https://www.conordewey.com/).
+Data science can seem like an intimidating field to get into. I know this first hand. Throughout my journey, I've learned a lot. I've also documented a lot. Through this process, I’ve accumulated a bunch of useful resources that helped me with learning new concepts, doing impactful work, interviewing at top tech companies, and more. This repo is an attempt to ‘open-source’ my experience and insights becoming a data scientist. Enjoy!
 
 ### [Data Science Interview Resources](https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources/)
 With this by your side, you should have more than enough material at your disposal the next time you’re prepping for a big interview or suring up fundamental concepts. Being updated and improved on constantly.
