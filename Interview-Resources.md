@@ -58,6 +58,8 @@ I wrote a Medium post on the experience as well. You can find the post and more 
    * https://towardsdatascience.com/notes-and-technical-questions-from-interviewing-as-a-data-scientist-in-2018-20e7e3ee4ab3
 * Mastering the Data Science Interview Loop
   * https://towardsdatascience.com/mastering-the-data-science-interview-15f9c0a558a7
+* How to Prepare for a Technical Interview
+  * https://doordash.engineering/2021/04/12/technical-interview-preparation/
 
 
 ### Algorithmic Coding & Python
